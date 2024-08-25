@@ -1,0 +1,27 @@
+.page {
+    flex: 0.4;
+    border-right: 1px solid black;
+    width: 100vw;
+    padding: 0 180px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.profilePage {
+    flex: 0.4;
+    border-right: 1px solid black;
+    min-width: fit-content;
+    overflow-y: scroll;
+}
+
+.profilePage::-webkit-scrollbar {
+    display: none;
+}
+
+
+.pageTitle {
+    color: skyblue;
+    text-align: center;
+    font-size: 30px;
+}
