@@ -8,12 +8,12 @@ import { getAuth } from "firebase/auth";
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "",
-  authDomain: "tabletalk-ac435.firebaseapp.com",
-  projectId: "tabletalk-ac435",
-  storageBucket: "tabletalk-ac435.appspot.com",
-  messagingSenderId: "453439443763",
-  appId: "1:453439443763:web:f7ad174dc20fa2405be446",
-  measurementId: "G-VR3RGY3CH2"
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
