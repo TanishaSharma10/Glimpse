@@ -1,4 +1,4 @@
-# Glimpse
+# GLIMPSE
 
 **Glimpse** is a MERN stack-based platform where users can share happy moments with others. It is designed to foster positivity and connect people through shared experiences. The project includes user authentication, profile management, and a feed to view and create posts.
 
